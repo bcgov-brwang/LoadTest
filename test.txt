@@ -1,7 +1,6 @@
 test for dev-1
-<<<<<<< HEAD
+
 added another test for dev-1
-=======
+
 
 this is a update from dev-2
->>>>>>> main
